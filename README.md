@@ -9,4 +9,4 @@ This Project will be a work sheet for each chapter in [Hands-on Machine Learning
 So in order to deal with this issue I will be making a worksheet for a book I recently read in hopes it helps people make sure they know the matirail.<br/>
 
 WorkSheet_1: CH2: End-to-End Machine Learning Project
-  - we will be using an [Automobile Data Set](https://archive.ics.uci.edu/ml/datasets/Automobile)
+  - we will be using an a data set about diamond prices found on seaborn
