@@ -9,4 +9,5 @@ This Project will be a work sheet for each chapter in [Hands-on Machine Learning
 So in order to deal with this issue I will be making a worksheet for a book I recently read in hopes it helps people make sure they know the matirail.<br/>
 
 WorkSheet_1: CH2: End-to-End Machine Learning Project
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/17mIqHyMTimHVMK0Ozfb_NHB4BXVvEWg7/view?usp=sharing)
   - we will be using an a data set about diamond prices found on seaborn
