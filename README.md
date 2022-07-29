@@ -8,6 +8,6 @@ This Project will be a work sheet for each chapter in [Hands-on Machine Learning
 **Why do a WorkSheet:** As a self taught data scientist I offten have found myself wondering if I know a topic or did I just read it, in an academic setting you have tests and by the end of that you will know if you know a subject or not.
 So in order to deal with this issue I will be making a worksheet for a book I recently read in hopes it helps people make sure they know the matirail.<br/>
 
-WorkSheet_1: CH2: End-to-End Machine Learning Project
+WorkSheet_1: CH2: End-to-End Machine Learning Project<br/>
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/17mIqHyMTimHVMK0Ozfb_NHB4BXVvEWg7/view?usp=sharing)
   - we will be using an a data set about diamond prices found on seaborn
